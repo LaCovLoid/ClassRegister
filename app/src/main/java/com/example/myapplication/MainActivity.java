@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView tv= (TextView)findViewById(R.id.text1);
+        tv.setText("연습용입니다");
+        //15~17은 삭제하셔도 됩니다
     }
 }
