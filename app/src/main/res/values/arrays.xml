@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="major">
+        <item>컴퓨터전자공학과</item>
+        <item>전기공학과</item>
+        <item>정보통신공학과</item>
+        <item>소프트웨어공학과</item>
+        <item>건축공학과</item>
+        <item>생명화학공학과</item>
+        <item>토목공학과</item>
+        <item>스마트자동차공학과</item>
+        <item>산업경영학과</item>
+        <item>유아교육학과</item>
+        <item>자산법률학과</item>
+        <item>민족문화학과</item>
+        <item>비즈니스영어과</item>
+        <item>비즈니스일본어과</item>
+        <item>중국어문화학과</item>
+        <item>미디어출판학과</item>
+        <item>사회복지학과</item>
+        <item>세무회계학과</item>
+        <item>간호학과</item>
+        <item>식품영양학과</item>
+        <item>영화방송공연예술학과</item>
+        <item>패션산업학과</item>
+        <item>생활가구디자인학과</item>
+        <item>실내디자인학과</item>
+        <item>커뮤니케이션디자인학과</item>
+        <item>레저스포츠학과</item>
+        <item>VMD전시디자인학과</item>
+    </string-array>
+
+
+</resources>
